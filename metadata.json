@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix OpenCity 3D ديسكتوب",
+  "description": "Open-world 3D city exploration game with drivable vehicles, buildings, missions, and day-night cycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
